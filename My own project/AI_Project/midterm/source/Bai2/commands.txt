@@ -1,0 +1,6 @@
+python problems.py --layout pacman_layouts/smallMaze.lay --a ucs
+python problems.py --layout pacman_layouts/smallMaze.lay --a aStarSearch
+python problems.py --layout pacman_layouts/mediumMaze.lay --a ucs
+python problems.py --layout pacman_layouts/mediumMaze.lay --a aStarSearch
+python problems.py --layout pacman_layouts/bigMaze.lay --a aStarSearch
+python problems.py --layout pacman_layouts/bigaze.lay --a ucs
