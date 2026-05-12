@@ -1,0 +1,10 @@
+Do file data nặng nên em gửi qua liên kết bên dưới:
+
+Liên kết dẫn đến folder chứa data:
+https://drive.google.com/drive/folders/1Ccr-yAZSUdquuZxDncNLoPghlyT-Ga69?usp=sharing
+
+Liên kết dẫn đến folder chứa model:
+https://drive.google.com/drive/folders/1w-9lOFKk_VhbmJlsVQDAny9MSCje1Z5O?usp=sharing
+
+Liên kết dẫn đến folder late_fusion:
+https://drive.google.com/drive/folders/1zQ85vqqEXzZvWxsJD5_aM02pmkt7vFex?usp=sharing
